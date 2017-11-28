@@ -1,6 +1,6 @@
-# react-native-flex-gird-view
+# react-native-flex-grid-view
 
-[![npm version](https://img.shields.io/npm/v/react-native-flex-gird-view.svg)](https://www.npmjs.com/package/react-native-flex-gird-view)
+[![npm version](https://img.shields.io/npm/v/react-native-flex-grid-view.svg)](https://www.npmjs.com/package/react-native-flex-grid-view)
 
 简单的 react native 布局。
 
@@ -13,13 +13,13 @@ Easy Grid View for React Native.
 ## Installation
 
 ```
-npm install react-native-flex-gird-view
+npm install react-native-flex-grid-view
 ```
 
 ## example
 
 ```
-import GridView from 'react-native-flex-gird-view'
+import GridView from 'react-native-flex-grid-view'
 
 <GridView
   data={[

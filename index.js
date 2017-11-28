@@ -95,7 +95,7 @@ class GridView extends PureComponent {
         {...props}
       />
     ) : (
-      <View onLayout={this.onLayout}>
+      <View onLayout={this.onLayout} {...props}>
         {d2(data, span).map((tr, key) => (
           <View key={key} style={{ flexDirection: 'row' }}>
             {tr.map((td, k) => (

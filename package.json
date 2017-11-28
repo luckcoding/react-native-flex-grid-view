@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flex-gird-view",
+  "name": "react-native-flex-grid-view",
   "version": "0.1.0",
   "description": "react native grid view",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luckcoding/react-native-flex-gird-view.git"
+    "url": "git+https://github.com/luckcoding/react-native-flex-grid-view.git"
   },
   "keywords": [
     "react",
@@ -17,7 +17,7 @@
   "author": "luckcoding",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luckcoding/react-native-flex-gird-view/issues"
+    "url": "https://github.com/luckcoding/react-native-flex-grid-view/issues"
   },
-  "homepage": "https://github.com/luckcoding/react-native-flex-gird-view#readme"
+  "homepage": "https://github.com/luckcoding/react-native-flex-grid-view#readme"
 }
